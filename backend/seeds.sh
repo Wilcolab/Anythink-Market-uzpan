@@ -1,5 +1,7 @@
 #!/bin/bash
-node app.js
+node app.js & echo OK
+sleep 30 
+
 
 for i in {1..100}
 do
