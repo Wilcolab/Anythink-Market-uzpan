@@ -1,4 +1,5 @@
 #!/bin/bash
+node app.js
 
 for i in {1..100}
 do
